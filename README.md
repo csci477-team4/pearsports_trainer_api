@@ -4,7 +4,6 @@ Sinatra app to handle api calls from trainer app. This is a mockup of the traine
 
 No UI.
 
-Deploy Notes
+To Run
 ------------
-
 `bundle exec rackup config.ru`
