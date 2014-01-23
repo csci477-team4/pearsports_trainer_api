@@ -7,4 +7,4 @@ No UI.
 Deploy Notes
 ------------
 
-! Server hasn't been set up yet.
+`bundle exec rackup config.ru`
